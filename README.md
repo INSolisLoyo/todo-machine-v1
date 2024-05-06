@@ -33,7 +33,7 @@ Users can:
 
 ### Links
 
-- Live Site URL: [Add live site URL here][(https://insolisloyo.github.io/todo-machine-v1/)]
+- Live Site URL: [Add live site URL here][https://insolisloyo.github.io/todo-machine-v1/]
 
 ## My process
 
